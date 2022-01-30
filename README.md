@@ -1,2 +1,2 @@
 # Travel-Website
-This is filly responsive travel website
+This is fully responsive travel website
